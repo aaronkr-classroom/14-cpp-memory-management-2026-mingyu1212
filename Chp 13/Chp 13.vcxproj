@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -135,7 +135,10 @@
     <ClInclude Include="Core.h" />
     <ClInclude Include="Grad.h" />
     <ClInclude Include="grade.h" />
+    <ClInclude Include="Handle.h" />
     <ClInclude Include="median.h" />
+    <ClInclude Include="Ptr.h" />
+    <ClInclude Include="Ref_handle.h" />
     <ClInclude Include="Student_info.h" />
     <ClInclude Include="Vec.h" />
   </ItemGroup>
